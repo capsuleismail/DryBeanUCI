@@ -3,7 +3,7 @@
 
 The **Dry Bean Dataset** from the UCI Machine Learning Repository is a well-structured dataset used for classifying different types of beans based on their morphological features. The dataset consists of **various shape-related attributes** extracted from bean images using computer vision techniques. Given these numerical attributes, the goal is to build a **classification model** that can accurately predict the bean type.  
 
-In this **[notebook](N/A)**, we explore and analyze the Dry Bean Dataset by answering key questions related to its structure, attributes, and classification potential. We perform **exploratory data analysis (EDA)** using **histograms, boxplots, and correlation matrices** to understand feature distributions and relationships. Additionally, we implement various **machine learning models**, compare their performance, and optimize hyperparameters using **Optuna** to enhance classification accuracy.  
+In this **[notebook](https://github.com/capsuleismail/dry_bean_uci/blob/main/dry-bean-dataset-uci.ipynb)**, we explore and analyze the Dry Bean Dataset by answering key questions related to its structure, attributes, and classification potential. We perform **exploratory data analysis (EDA)** using **histograms, boxplots, and correlation matrices** to understand feature distributions and relationships. Additionally, we implement various **machine learning models**, compare their performance, and optimize hyperparameters using **Optuna** to enhance classification accuracy.  
 
 Through this analysis, we aim to determine the **most effective model** for distinguishing between different bean types, leveraging advanced preprocessing techniques and **machine learning pipelines** to streamline the workflow.
 
