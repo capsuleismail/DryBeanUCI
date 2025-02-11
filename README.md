@@ -28,9 +28,6 @@ These are the questions I've gone through on my notebooks:
 **Citation: Dry Bean [Dataset](https://doi.org/10.24432/C50S4B). (2020). UCI Machine Learning Repository.** <br/>
 --------------------------------------------------------------------------------------------------------------------
 
-**License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)**
---------------------------------------------------------------------------------------------------------------------
-
 
 ### I. How to import the dataset via pip.
 --------------------------------------------------------------------------------------------------------------------
